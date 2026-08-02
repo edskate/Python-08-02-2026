@@ -1,2 +1,13 @@
 # \Python-08-02-2026
-
+- 1. Apenas pedir o nome
+- 2. Mostrar “Olá” e o nome
+- 3. Mensagem de boas-vindas
+- 4. Mostrar duas mensagens
+-  5. Usando f-string
+- 6. Pedir nome e idade
+- 7. Nome e cidade
+- 8. Uma condição simples
+- 9. Verificar se o nome está vazio
+- 10. Programa básico completo
+- O exemplo mais indicado para começar é:
+- 
